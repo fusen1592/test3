@@ -29,10 +29,10 @@ h1 {
 }
 
 .title {
-  color: #333;
-  font-size: 25px;
-  font-family: 'RocknRoll One', sans-serif;
-  margin: 0 !important;
+    color: #333;
+    font-size: 25px;
+    font-family: 'Jersey 15', sans-serif;
+    margin: 0 !important;
 }
 
 .title-tools {
@@ -131,20 +131,20 @@ tr td:nth-child(2) {
   min-width: 150px;
 }
 
-tr td:nth-child(4) {
+tr td:nth-child(3) {
   min-width: 250px;
 }
 
-tr td:nth-child(5) {
+tr td:nth-child(4) {
   min-width: 150px;
 }
 
-tr td:nth-child(7) {
+tr td:nth-child(5) {
   min-width: 70px;
   text-align: right;
 }
 
-tr td:nth-child(8) {
+tr td:nth-child(6) {
   min-width: 70px;
   text-align: right;
 }
